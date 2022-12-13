@@ -14,6 +14,8 @@ verify the JWT, allowing access to required information from the database.
 npm i @nuclear-packages/jwt-creator
 ``
 
+From: https://www.npmjs.com/package/@nuclear-packages/jwt-creator
+
 ## Usage
 
 ```js
