@@ -1,5 +1,5 @@
 {
-  "name": "@atomic-packages/jwt-creator",
+  "name": "@nuclear-packages/jwt-creator",
   "version": "1.0.0",
   "description": "",
   "main": "jwt.js",
